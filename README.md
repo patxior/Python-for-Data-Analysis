@@ -3,10 +3,17 @@
 
 ## **Contenido del curso**
 TEMA 1 - Introducción a Python y primeros pasos.
+
 TEMA 2 - Control de flujo y estructuras de datos.
+
 TEMA 3 - Funciones y módulos en Python.
+
 TEMA 4 - Entrada y clases en Python.
+
 TEMA 5 - Cálculo científico en Python: numpy.
+
 TEMA 6 - Procesamiento y análisis de datos en Python: pandas.
+
 TEMA 7 - Visualización de datos en Python:seaborn.
+
 TEMA 8 - Modelos estadísticos en Python: statsmodel.
