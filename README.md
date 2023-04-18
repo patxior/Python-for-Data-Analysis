@@ -19,3 +19,7 @@ TEMA 6 - Procesamiento y análisis de datos en Python: pandas.
 TEMA 7 - Visualización de datos en Python:seaborn.
 
 TEMA 8 - Modelos estadísticos en Python: statsmodel.
+
+
+## **Notas**
+* Excepto en el Tema 1, el resto se subirán dos veces. Uno con los ejercicios hechos y otro sin. Esto es útil para que l@s alum@s intenten resolver los problemas y mas delante tengan las soluciones.
